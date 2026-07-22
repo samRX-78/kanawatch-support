@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # Privacy Policy for KanaWatch
 
 **Last updated: July 2026**
